@@ -1,7 +1,7 @@
 package config
 
 class NestConfig {
-  val nestApiUrl = ""
+  val nestApiUrl = "https://developer-api.nest.com"
   val nestToken = ""
   val thermostatId = ""
 }
